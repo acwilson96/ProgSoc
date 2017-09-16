@@ -1,4 +1,3 @@
-# Test being a collaborator.
 
 speed = 10 #mph
 print('You encountered a police car')
