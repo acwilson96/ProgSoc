@@ -14,3 +14,7 @@ def some_fun(firstarg, some_arg=100):
 
 some_fun(100,300)
 some_fun(100)
+
+# The fibonacci sequence is as such: 1 1 2 3 5 8 13 21 34
+def fibonacci(prev):
+    # Your code here.
